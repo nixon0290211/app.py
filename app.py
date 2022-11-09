@@ -7,7 +7,7 @@ import time
 webbrowser.open_new("https://www.google.com")
 
 
-pyperclip.copy("あいうえお")
+pyperclip.copy("平泉町観光")
 pyautogui.hotkey("command", "v")
 pyautogui.press("enter")
 
